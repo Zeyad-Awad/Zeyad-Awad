@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeyad-Awad
-- 👀 I’m interested in Data Analysis and Maths
-- 🌱 I’m currently learning more about Data Analysis
+- 👀 I’m interested in Machine Learning and Mathematics
+- 🌱 I’m currently learning more about applications of Neural Networks in word embeddings
 - 📫 How to reach me: zeyadahmed@me.com
 
 <!---
